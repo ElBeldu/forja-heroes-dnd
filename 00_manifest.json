@@ -1,0 +1,216 @@
+{
+  "package": "Compendio Completo D&D 2024 + Tasha + Xanathar + Multiverso (ES)",
+  "schema_version": "1.0.0",
+  "locale": "es",
+  "total_elements": 6638,
+  "sanitization_summary": {
+    "fixed_legacy_grants": 363,
+    "remaining_optional_or_legacy_grants": 9,
+    "active_appends": 35
+  },
+  "modules": [
+    {
+      "file": "01_motor_y_config.json",
+      "role": "engine_config",
+      "element_count": 0,
+      "size_bytes": 40307,
+      "size_mb": 0.038,
+      "keys": [
+        "schema_version",
+        "locale",
+        "meta",
+        "sources",
+        "aurora_config",
+        "compatibility",
+        "appends",
+        "appends_by_target"
+      ]
+    },
+    {
+      "file": "02_razas_y_trasfondos.json",
+      "role": "elements",
+      "types": [
+        "Alignment",
+        "Background",
+        "Background Feature",
+        "Language",
+        "Race",
+        "Racial Trait",
+        "Size",
+        "Sub Race",
+        "Vision"
+      ],
+      "element_count": 418,
+      "size_bytes": 541538,
+      "size_mb": 0.516
+    },
+    {
+      "file": "03_clases_y_subclases.json",
+      "role": "elements",
+      "types": [
+        "Archetype",
+        "Archetype Feature",
+        "Class",
+        "Class Feature",
+        "Level",
+        "Multiclass"
+      ],
+      "element_count": 1371,
+      "size_bytes": 2048734,
+      "size_mb": 1.954
+    },
+    {
+      "file": "04_dotes_y_mejoras.json",
+      "role": "elements",
+      "types": [
+        "Ability Score Improvement",
+        "Feat",
+        "Feat Feature",
+        "Proficiency"
+      ],
+      "element_count": 489,
+      "size_bytes": 451772,
+      "size_mb": 0.431
+    },
+    {
+      "file": "05_conjuros.json",
+      "role": "elements",
+      "types": [
+        "Spell"
+      ],
+      "element_count": 507,
+      "size_bytes": 801085,
+      "size_mb": 0.764
+    },
+    {
+      "file": "06_equipo_y_objetos_magicos.json",
+      "role": "elements",
+      "types": [
+        "Armor",
+        "Item",
+        "Magic Item",
+        "Weapon",
+        "Weapon Group",
+        "Weapon Property"
+      ],
+      "element_count": 1176,
+      "size_bytes": 1344938,
+      "size_mb": 1.283
+    },
+    {
+      "file": "07_reglas_companeros_e_interno.json",
+      "role": "elements",
+      "types": [
+        "Companion",
+        "Companion Action",
+        "Companion Reaction",
+        "Companion Trait",
+        "Condition",
+        "Grants",
+        "Information",
+        "Option",
+        "Rule",
+        "Source"
+      ],
+      "element_count": 896,
+      "size_bytes": 606958,
+      "size_mb": 0.579
+    },
+    {
+      "file": "08_van_richtens_ravenloft.json",
+      "role": "elements",
+      "types": [
+        "Archetype",
+        "Archetype Feature",
+        "Background",
+        "Background Feature",
+        "Information",
+        "Item",
+        "Magic Item",
+        "Race",
+        "Racial Trait",
+        "Source"
+      ],
+      "element_count": 90,
+      "size_bytes": 55672,
+      "size_mb": 0.053
+    },
+    {
+      "file": "09_fizban_y_gigantes.json",
+      "role": "elements",
+      "types": [
+        "Archetype",
+        "Archetype Feature",
+        "Background",
+        "Background Feature",
+        "Companion",
+        "Companion Action",
+        "Companion Reaction",
+        "Companion Trait",
+        "Feat",
+        "Feat Feature",
+        "Grants",
+        "Information",
+        "Item",
+        "Magic Item",
+        "Race",
+        "Racial Trait",
+        "Rule",
+        "Source",
+        "Spell"
+      ],
+      "element_count": 200,
+      "size_bytes": 170569,
+      "size_mb": 0.163
+    },
+    {
+      "file": "10_ambientaciones_razas_clases_dotes.json",
+      "role": "elements",
+      "types": [
+        "Archetype",
+        "Archetype Feature",
+        "Class",
+        "Class Feature",
+        "Dragonmark",
+        "Feat",
+        "Feat Feature",
+        "Grants",
+        "Information",
+        "Language",
+        "Option",
+        "Proficiency",
+        "Race",
+        "Race Variant",
+        "Racial Trait",
+        "Source",
+        "Sub Race"
+      ],
+      "element_count": 668,
+      "size_bytes": 739502,
+      "size_mb": 0.705
+    },
+    {
+      "file": "11_ambientaciones_trasfondos_conjuros_equipo.json",
+      "role": "elements",
+      "types": [
+        "Armor",
+        "Background",
+        "Background Feature",
+        "Background Variant",
+        "Companion",
+        "Companion Action",
+        "Companion Reaction",
+        "Companion Trait",
+        "Deity",
+        "Item",
+        "Magic Item",
+        "Spell",
+        "Weapon",
+        "Weapon Property"
+      ],
+      "element_count": 823,
+      "size_bytes": 1038555,
+      "size_mb": 0.99
+    }
+  ]
+}
